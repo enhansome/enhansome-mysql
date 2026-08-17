@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T14:57:11Z",
+            "last_commit": "2026-08-17T07:38:57Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65712
+            "stars": 65723
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-12T14:55:24Z",
+            "last_commit": "2026-08-17T07:06:43Z",
             "owner": "major",
             "repo": "MySQLTuner-perl",
-            "stars": 9476
+            "stars": 9475
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-07T23:36:14Z",
             "owner": "mickamy",
             "repo": "sql-tap",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T07:56:35Z",
+            "last_commit": "2026-08-17T08:14:57Z",
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40434
+            "stars": 40438
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-13T18:45:24Z",
             "owner": "databasus",
             "repo": "databasus",
-            "stars": 7926
+            "stars": 7938
           }
         },
         {
@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:21:20Z",
+            "last_commit": "2026-08-16T09:54:38Z",
             "owner": "Portabase",
             "repo": "portabase",
-            "stars": 1643
+            "stars": 1648
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2025-03-09T16:27:25Z",
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6772
+            "stars": 6773
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-13T18:48:03Z",
             "owner": "TPC-Council",
             "repo": "HammerDB",
-            "stars": 776
+            "stars": 775
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2024-06-25T12:03:39Z",
             "owner": "mysqljs",
             "repo": "mysql",
-            "stars": 18620
+            "stars": 18613
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-08-14T07:42:05Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15276
+            "stars": 15267
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-05T08:03:20Z",
             "owner": "PyMySQL",
             "repo": "PyMySQL",
-            "stars": 7845
+            "stars": 7843
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-07-26T01:58:48Z",
             "owner": "PyMySQL",
             "repo": "mysqlclient",
-            "stars": 2532
+            "stars": 2531
           }
         },
         {
@@ -427,7 +427,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T22:51:48Z",
+            "last_commit": "2026-08-17T07:51:51Z",
             "owner": "brianmario",
             "repo": "mysql2",
             "stars": 2278
@@ -643,7 +643,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T19:22:34Z",
+            "last_commit": "2026-08-17T04:33:05Z",
             "owner": "liquibase",
             "repo": "liquibase",
             "stars": 5589
@@ -671,7 +671,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:50:23Z",
+            "last_commit": "2026-08-17T07:07:40Z",
             "owner": "actiontech",
             "repo": "sqle",
             "stars": 1499
@@ -688,7 +688,7 @@
             "last_commit": "2026-08-12T23:35:18Z",
             "owner": "skeema",
             "repo": "skeema",
-            "stars": 1375
+            "stars": 1376
           }
         },
         {
@@ -747,10 +747,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T18:16:05Z",
+            "last_commit": "2026-08-17T07:28:18Z",
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 51443
+            "stars": 51451
           }
         },
         {
@@ -764,7 +764,7 @@
             "last_commit": "2026-05-27T02:22:32Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12308
+            "stars": 12310
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2026-08-15T12:56:53Z",
             "owner": "dbcli",
             "repo": "mycli",
-            "stars": 11963
+            "stars": 11960
           }
         },
         {
@@ -789,7 +789,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T00:23:38Z",
+            "last_commit": "2026-08-16T08:11:51Z",
             "owner": "phpmyadmin",
             "repo": "phpmyadmin",
             "stars": 7911
@@ -803,10 +803,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T22:43:13Z",
+            "last_commit": "2026-08-16T09:21:43Z",
             "owner": "vrana",
             "repo": "adminer",
-            "stars": 7789
+            "stars": 7794
           }
         },
         {
@@ -817,10 +817,10 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-08-16T05:09:29Z",
+            "last_commit": "2026-08-17T07:08:23Z",
             "owner": "Sequel-Ace",
             "repo": "Sequel-Ace",
-            "stars": 7502
+            "stars": 7500
           }
         },
         {
@@ -831,10 +831,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-07T06:32:44Z",
+            "last_commit": "2026-08-16T18:29:11Z",
             "owner": "HeidiSQL",
             "repo": "HeidiSQL",
-            "stars": 6213
+            "stars": 6212
           }
         },
         {
@@ -845,10 +845,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T03:03:26Z",
+            "last_commit": "2026-08-17T08:01:10Z",
             "owner": "TableProApp",
             "repo": "TablePro",
-            "stars": 5477
+            "stars": 5483
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-06-28T06:36:42Z",
             "owner": "okbob",
             "repo": "pspg",
-            "stars": 2728
+            "stars": 2729
           }
         },
         {
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T11:49:09Z",
+            "last_commit": "2026-08-17T08:16:14Z",
             "owner": "percona",
             "repo": "pmm",
             "stars": 1085
@@ -946,7 +946,7 @@
             "last_commit": "2026-08-06T12:02:49Z",
             "owner": "eduardofuncao",
             "repo": "squix",
-            "stars": 267
+            "stars": 266
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-04-23T00:16:58Z",
             "owner": "cossacklabs",
             "repo": "acra",
-            "stars": 1491
+            "stars": 1492
           }
         },
         {
@@ -1183,10 +1183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T07:56:35Z",
+            "last_commit": "2026-08-17T08:14:57Z",
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40434
+            "stars": 40438
           }
         },
         {
@@ -1211,10 +1211,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T19:17:45Z",
+            "last_commit": "2026-08-17T08:04:24Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8102
+            "stars": 8107
           }
         },
         {
@@ -1259,10 +1259,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:20:54Z",
+            "last_commit": "2026-08-17T08:02:04Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21222
+            "stars": 21226
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-14T16:39:20Z",
             "owner": "github",
             "repo": "gh-ost",
-            "stars": 13521
+            "stars": 13522
           }
         },
         {
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:58:58.839Z",
+    "last_updated": "2026-08-17T08:23:58.006Z",
     "original_repository": "shlomi-noach/awesome-mysql",
     "original_repository_sha": "cd4aa90c2234babb75a08c3ffc1948dbfa78cedd",
     "enhanced_repository": "enhansome/enhansome-mysql",
