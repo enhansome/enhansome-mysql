@@ -1,6 +1,6 @@
 # awesome-mysql with stars
 
-A curated list of awesome MySQL free and opensource software, libraries and resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,757 | 🐛 105 | 📅 2026-08-21
+A curated list of awesome MySQL free and opensource software, libraries and resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,063 | 🐛 106 | 📅 2026-08-21
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md) ⭐ 2,608 | 🐛 17 | 🌐 Python | 📅 2026-08-17
 
@@ -34,12 +34,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Performance, structure & data analysis tools*
 
-* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,768 | 🐛 915 | 🌐 Go | 📅 2026-08-22/[mysqld\_exporter](https://github.com/prometheus/mysqld_exporter) ⭐ 2,460 | 🐛 184 | 🌐 Go | 📅 2026-08-18 - Time series database for real-time monitoring and alerting.
-* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) ⭐ 9,474 | 🐛 6 | 🌐 Perl | 📅 2026-08-19 - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,779 | 🐛 921 | 🌐 Go | 📅 2026-08-22/[mysqld\_exporter](https://github.com/prometheus/mysqld_exporter) ⭐ 2,460 | 🐛 184 | 🌐 Go | 📅 2026-08-18 - Time series database for real-time monitoring and alerting.
+* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) ⭐ 9,475 | 🐛 6 | 🌐 Perl | 📅 2026-08-19 - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 * [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,801 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - A parser for InnoDB file formats, in Ruby.
 * [sql-tap](https://github.com/mickamy/sql-tap) ⭐ 1,586 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Real-time SQL traffic viewer.
 * [Anemometer](https://github.com/box/Anemometer) ⭐ 1,391 | 🐛 60 | 🌐 JavaScript | 📅 2021-12-08 - Box SQL slow query monitor.
-* [Dolphie](https://github.com/charles-001/dolphie) ⭐ 1,191 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
+* [Dolphie](https://github.com/charles-001/dolphie) ⭐ 1,192 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
 * [innotop](https://github.com/innotop/innotop) ⭐ 803 | 🐛 27 | 🌐 Perl | 📅 2026-05-22 - a 'top' clone for MySQL with many features and flexibility.
 * [pstop](https://github.com/sjmudd/ps-top) ⭐ 211 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 * [mysql-statsd](https://github.com/db-art/mysql-statsd) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2021-04-20 - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
@@ -51,17 +51,17 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Backup/restore/recovery tools*
 
-* [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) ⭐ 40,459 | 🐛 6,832 | 🌐 Go | 📅 2026-08-22 - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
-* [Databasus](https://github.com/databasus/databasus) ⭐ 7,966 | 🐛 11 | 🌐 Go | 📅 2026-08-20 - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
-* [MyDumper](https://github.com/mydumper/mydumper) ⭐ 3,208 | 🐛 60 | 🌐 C | 📅 2026-08-21 - Logical, parallel backup/dumper tool for MySQL
-* [Portabase](https://github.com/Portabase/portabase) ⭐ 1,658 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
-* [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) ⭐ 1,547 | 🐛 23 | 🌐 C++ | 📅 2026-08-20 - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+* [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) ⭐ 40,461 | 🐛 6,832 | 🌐 Go | 📅 2026-08-23 - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+* [Databasus](https://github.com/databasus/databasus) ⭐ 8,130 | 🐛 0 | 🌐 Go | 📅 2026-08-22 - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+* [MyDumper](https://github.com/mydumper/mydumper) ⭐ 3,209 | 🐛 60 | 🌐 C | 📅 2026-08-21 - Logical, parallel backup/dumper tool for MySQL
+* [Portabase](https://github.com/Portabase/portabase) ⭐ 1,662 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
+* [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) ⭐ 1,546 | 🐛 23 | 🌐 C++ | 📅 2026-08-20 - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ## Benchmarking
 
 *Tools to stress your servers*
 
-* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,779 | 🐛 217 | 🌐 C | 📅 2025-03-09 - a modular, cross-platform and multi-threaded benchmark tool.
+* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,780 | 🐛 217 | 🌐 C | 📅 2025-03-09 - a modular, cross-platform and multi-threaded benchmark tool.
 * [HammerDB](https://github.com/TPC-Council/HammerDB) ⭐ 776 | 🐛 14 | 🌐 Tcl | 📅 2026-08-13 - An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.
 * [TPCC-MySQL](https://github.com/Percona-Lab/tpcc-mysql) ⚠️ Archived (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
 * [go-tpc](https://github.com/pingcap/go-tpc) ⭐ 208 | 🐛 26 | 🌐 Go | 📅 2026-01-13 - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
@@ -89,10 +89,10 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL connectors for various programming languages*
 
-* [node-mysql](https://github.com/mysqljs/mysql) ⭐ 18,615 | 🐛 175 | 🌐 JavaScript | 📅 2024-06-25 - A pure Nodejs Javascript client implementing the MySQL protocol.
+* [node-mysql](https://github.com/mysqljs/mysql) ⭐ 18,614 | 🐛 175 | 🌐 JavaScript | 📅 2024-06-25 - A pure Nodejs Javascript client implementing the MySQL protocol.
 * [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,270 | 🐛 72 | 🌐 Go | 📅 2026-08-20 - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
-* [PyMySQL](https://github.com/PyMySQL/PyMySQL) ⭐ 7,843 | 🐛 14 | 🌐 Python | 📅 2026-08-18 - MySQL database connector for Python.
-* [mysqlclient-python](https://github.com/PyMySQL/mysqlclient) ⭐ 2,532 | 🐛 4 | 🌐 Python | 📅 2026-08-22 - MySQL database connector for Python.
+* [PyMySQL](https://github.com/PyMySQL/PyMySQL) ⭐ 7,844 | 🐛 14 | 🌐 Python | 📅 2026-08-18 - MySQL database connector for Python.
+* [mysqlclient-python](https://github.com/PyMySQL/mysqlclient) ⭐ 2,533 | 🐛 4 | 🌐 Python | 📅 2026-08-22 - MySQL database connector for Python.
 * [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) ⭐ 2,279 | 🐛 66 | 🌐 Ruby | 📅 2026-08-21 - MySQL driver for Ruby and Rails projects.
 * [MySQL Connector/J](https://github.com/mysql/mysql-connector-j) ⭐ 1,014 | 🐛 1 | 🌐 Java | 📅 2026-07-29 - a standardized database driver for the Java platforms and development.
 * [MySQL Connector/Python](https://github.com/mysql/mysql-connector-python) ⭐ 957 | 🐛 1 | 🌐 Python | 📅 2026-07-29 - a standardized database driver for Python platforms and development.
@@ -120,8 +120,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Tools to support MySQL-related development*
 
-* [Flywaydb](https://github.com/flyway/flyway) ⭐ 10,019 | 🐛 254 | 🌐 Java | 📅 2026-08-13 - Database migrations; Evolve your database schema easily and reliably across all your instances
-* [Liquibase](https://github.com/liquibase/liquibase) ⭐ 5,593 | 🐛 249 | 🌐 Java | 📅 2026-08-21 - Source control for your database
+* [Flywaydb](https://github.com/flyway/flyway) ⭐ 10,021 | 🐛 255 | 🌐 Java | 📅 2026-08-13 - Database migrations; Evolve your database schema easily and reliably across all your instances
+* [Liquibase](https://github.com/liquibase/liquibase) ⭐ 5,594 | 🐛 248 | 🌐 Java | 📅 2026-08-23 - Source control for your database
 * [Test database](https://github.com/datacharmer/test_db) ⭐ 4,431 | 🐛 2 | 🌐 PLpgSQL | 📅 2026-04-10 - A sample MySQL database with an integrated test suite, used to test applications and servers
 * [SQLE](https://github.com/actiontech/sqle/blob/main/README_en.md) ⭐ 1,500 | 🐛 197 | 🌐 Go | 📅 2026-08-21 - SQLE is a SQL audit platform for DBA or developer
 * [Skeema](https://github.com/skeema/skeema) ⭐ 1,376 | 🐛 15 | 🌐 Go | 📅 2026-08-20 - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
@@ -133,23 +133,23 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *GUI frontends & applications*
 
-* [DBeaver](https://github.com/dbeaver/dbeaver/) ⭐ 51,500 | 🐛 3,338 | 🌐 Java | 📅 2026-08-22 - A cross-platform SQL and NoSQL database client.
+* [DBeaver](https://github.com/dbeaver/dbeaver/) ⭐ 51,509 | 🐛 3,342 | 🌐 Java | 📅 2026-08-23 - A cross-platform SQL and NoSQL database client.
 * [ILLA Cloud](https://github.com/illacloud/illa-builder) ⭐ 12,310 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27 - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
-* [mycli](https://github.com/dbcli/mycli) ⭐ 11,966 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,914 | 🐛 932 | 🌐 PHP | 📅 2026-08-21 - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
-* [Adminer](https://github.com/vrana/adminer/) ⭐ 7,818 | 🐛 2 | 🌐 PHP | 📅 2026-08-17 - Database management in a single PHP file.
-* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,511 | 🐛 188 | 🌐 Objective-C | 📅 2026-08-21 - a Mac database management application for working with MySQL databases.
+* [mycli](https://github.com/dbcli/mycli) ⭐ 11,966 | 🐛 4 | 🌐 Python | 📅 2026-08-22 - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,915 | 🐛 935 | 🌐 PHP | 📅 2026-08-23 - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+* [Adminer](https://github.com/vrana/adminer/) ⭐ 7,821 | 🐛 3 | 🌐 PHP | 📅 2026-08-17 - Database management in a single PHP file.
+* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,511 | 🐛 188 | 🌐 Objective-C | 📅 2026-08-22 - a Mac database management application for working with MySQL databases.
 * [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) ⭐ 6,220 | 🐛 314 | 🌐 Pascal | 📅 2026-08-18 - MySQL GUI frontend for Windows.
-* [TablePro](https://github.com/TableProApp/TablePro) ⭐ 5,532 | 🐛 20 | 🌐 Swift | 📅 2026-08-22 - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+* [TablePro](https://github.com/TableProApp/TablePro) ⭐ 5,536 | 🐛 21 | 🌐 Swift | 📅 2026-08-23 - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 * [OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB) ⭐ 3,286 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01
-* [pspg](https://github.com/okbob/pspg) ⭐ 2,727 | 🐛 0 | 🌐 C | 📅 2026-06-28 - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
+* [pspg](https://github.com/okbob/pspg) ⭐ 2,728 | 🐛 0 | 🌐 C | 📅 2026-06-28 - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 * [SQLyog Community edition](https://github.com/webyog/sqlyog-community) ⭐ 2,345 | 🐛 694 | 🌐 C++ | 📅 2026-08-19 - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,088 | 🐛 219 | 🌐 Go | 📅 2026-08-22 - An open-source platform for managing and monitoring MySQL performance.
+* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,089 | 🐛 220 | 🌐 Go | 📅 2026-08-23 - An open-source platform for managing and monitoring MySQL performance.
 * [MySQL Workbench](https://github.com/mysql/mysql-workbench) ⭐ 995 | 🐛 2 | 🌐 C++ | 📅 2026-04-23 - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
-* [StackRender](https://github.com/stackrender/stackrender) ⭐ 523 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-05 - Free and open-source database schema design and SQL migration generator for MySQL.
+* [StackRender](https://github.com/stackrender/stackrender) ⭐ 525 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-05 - Free and open-source database schema design and SQL migration generator for MySQL.
 * [WebDB](https://github.com/WebDB-App/app) ⭐ 332 | 🐛 25 | 🌐 TypeScript | 📅 2025-06-10 – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 284 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-23 - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
 * [squix](https://github.com/eduardofuncao/squix) ⭐ 266 | 🐛 11 | 🌐 Go | 📅 2026-08-19 - SQL command-line client with query management and interactive results.
-* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 265 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-22 - Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.
 * [MySQL Shell](https://github.com/mysql/mysql-shell/) ⭐ 222 | 🐛 0 | 🌐 C++ | 📅 2026-08-18 - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 * [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) ⭐ 63 | 🐛 2 | 🌐 C++ | 📅 2025-11-06 - GUI client for MySQL or MariaDB, including debugger.
 
@@ -160,12 +160,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 * [Orchestrator](https://github.com/openark/orchestrator) ⚠️ Archived (archived) - MySQL replication topology management and High Availability solution.
 * [replication-manager](https://github.com/signal18/replication-manager) ⭐ 738 | 🐛 169 | 🌐 Go | 📅 2026-08-22 - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 * [Galera Cluster](https://github.com/codership/galera) ⭐ 497 | 🐛 254 | 🌐 C++ | 📅 2026-06-09 - a true Multimaster Cluster based on synchronous replication.
-* [mha4mysql-node](https://github.com/yoshinorim/mha4mysql-node) ⭐ 409 | 🐛 14 | 🌐 Perl | 📅 2020-03-12 and [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) ⭐ 1,509 | 🐛 73 | 🌐 Perl | 📅 2020-08-14 (both unmaintained) - Master High Availability Manager and tools for MySQL.
+* [mha4mysql-node](https://github.com/yoshinorim/mha4mysql-node) ⭐ 408 | 🐛 14 | 🌐 Perl | 📅 2020-03-12 and [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) ⭐ 1,508 | 🐛 73 | 🌐 Perl | 📅 2020-08-14 (both unmaintained) - Master High Availability Manager and tools for MySQL.
 * [Percona Replication Manager](https://github.com/percona/replication-manager) ⭐ 7 | 🐛 3 | 🌐 Shell | 📅 2026-01-07 - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 
 ## MCP
 
-* [MCP MariaDB Server](https://github.com/MariaDB/mcp) ⭐ 190 | 🐛 26 | 🌐 Python | 📅 2026-08-10 - the official MariaDB MCP server.
+* [MCP MariaDB Server](https://github.com/MariaDB/mcp) ⭐ 191 | 🐛 26 | 🌐 Python | 📅 2026-08-10 - the official MariaDB MCP server.
 * [MySQL MCP Server](https://github.com/askdba/mysql-mcp-server) ⭐ 40 | 🐛 4 | 🌐 Go | 📅 2026-06-16 - Advanced MCP server exposing MySQL via the Model Context Protocol
 * [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
@@ -193,7 +193,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
-* [Acra](https://github.com/cossacklabs/acra) ⭐ 1,492 | 🐛 29 | 🌐 Go | 📅 2026-04-23 - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+* [Acra](https://github.com/cossacklabs/acra) ⭐ 1,491 | 🐛 29 | 🌐 Go | 📅 2026-04-23 - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 * [myanon](https://github.com/ppomes/myanon) ⭐ 123 | 🐛 0 | 🌐 C | 📅 2026-07-24 - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 * [myldapsync](https://github.com/6eh01der/myldapsync) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-22 - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
@@ -201,17 +201,17 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL server flavors*
 
-* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,459 | 🐛 6,832 | 🌐 Go | 📅 2026-08-22 - A distributed HTAP database compatible with the MySQL protocol.
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,389 | 🐛 37 | 🌐 C++ | 📅 2026-08-22 - Official Oracle's MySQL server & MySQL Cluster distribution.
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,122 | 🐛 462 | 🌐 C++ | 📅 2026-08-22 - Community developed fork of MySQL server.
-* [Percona Server](https://github.com/percona/percona-server) ⭐ 1,270 | 🐛 88 | 🌐 C++ | 📅 2026-08-20 - An enhanced, drop-in MySQL replacement.
-* [MyVector](https://github.com/askdba/myvector) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-08-02 - Native vector search plugin for MySQL, shipped as a server plugin.
+* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,461 | 🐛 6,832 | 🌐 Go | 📅 2026-08-23 - A distributed HTAP database compatible with the MySQL protocol.
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,390 | 🐛 37 | 🌐 C++ | 📅 2026-08-22 - Official Oracle's MySQL server & MySQL Cluster distribution.
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,125 | 🐛 462 | 🌐 C++ | 📅 2026-08-22 - Community developed fork of MySQL server.
+* [Percona Server](https://github.com/percona/percona-server) ⭐ 1,270 | 🐛 89 | 🌐 C++ | 📅 2026-08-20 - An enhanced, drop-in MySQL replacement.
+* [MyVector](https://github.com/askdba/myvector) ⭐ 26 | 🐛 1 | 🌐 C++ | 📅 2026-08-02 - Native vector search plugin for MySQL, shipped as a server plugin.
 
 ## Sharding
 
 *Sharding solutions/frameworks*
 
-* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,237 | 🐛 1,089 | 🌐 Go | 📅 2026-08-22 - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,238 | 🐛 1,087 | 🌐 Go | 📅 2026-08-23 - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 * [Jetpants](https://github.com/tumblr/jetpants) ⭐ 1,125 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - An automation suite for managing large range sharding clusters, by Tumblr.
 
 ## Toolkits
@@ -220,13 +220,13 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 * [sqlaxe](https://github.com/djberube/sqlaxe) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - CLI tool for searching, filtering, formatting, and splitting SQL files.
 
-- [gh-ost](https://github.com/github/gh-ost/) ⭐ 13,531 | 🐛 327 | 🌐 Go | 📅 2026-08-19 - GitHub's online schema migration for MySQL.
-- [go-mysql](https://github.com/go-mysql-org/go-mysql) ⭐ 4,962 | 🐛 159 | 🌐 Go | 📅 2026-08-14 - A pure go library to handle MySQL network protocol and replication.
+- [gh-ost](https://github.com/github/gh-ost/) ⭐ 13,532 | 🐛 327 | 🌐 Go | 📅 2026-08-19 - GitHub's online schema migration for MySQL.
+- [go-mysql](https://github.com/go-mysql-org/go-mysql) ⭐ 4,962 | 🐛 157 | 🌐 Go | 📅 2026-08-23 - A pure go library to handle MySQL network protocol and replication.
 - [Percona Toolkit](https://github.com/percona/percona-toolkit) ⭐ 1,544 | 🐛 37 | 🌐 Perl | 📅 2026-08-17 - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://github.com/twindb/undrop-for-innodb) ⚠️ Archived (archived) - a tool to recover data from dropped or corrupted InnoDB tables.
 - [MySQL Utilities](https://github.com/mysql/mysql-utilities) ⚠️ Archived (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
-- [Swoof](https://github.com/StirlingMarketingGroup/swoof) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-08-21 - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
-- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2026-08-19 - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
+- [Swoof](https://github.com/StirlingMarketingGroup/swoof) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2026-08-22 - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
+- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-08-22 - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
 
 # Resources
 
@@ -237,14 +237,14 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *e-books as well as relevant materials on and around MySQL*
 
 * [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,528 | 🐛 8 | 📅 2023-11-11 - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,530 | 🐛 8 | 📅 2023-11-11 - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## Incubating
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
-* [VillageSQL](https://github.com/villagesql/villagesql-server) ⭐ 169 | 🐛 247 | 🌐 C++ | 📅 2026-08-22 - A drop-in replacement for MySQL with extensions for the agentic AI era.
+* [VillageSQL](https://github.com/villagesql/villagesql-server) ⭐ 169 | 🐛 247 | 🌐 C++ | 📅 2026-08-23 - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
