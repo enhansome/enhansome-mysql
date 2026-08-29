@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65878
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+            "homepage": null,
             "id": 213417,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T13:05:34Z",
+            "open_issues": 7,
             "owner": "major",
             "repo": "MySQLTuner-perl",
-            "stars": 9474
+            "stars": 9474,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser for InnoDB file formats, in Ruby",
+            "homepage": "http://rubygems.org/gems/innodb_ruby",
             "id": 6633847,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-28T13:04:05Z",
+            "open_issues": 21,
             "owner": "jeremycole",
             "repo": "innodb_ruby",
-            "stars": 1800
+            "stars": 1800,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watch SQL traffic in real-time with a TUI",
+            "homepage": null,
             "id": 1157577714,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-07T23:36:14Z",
+            "open_issues": 0,
             "owner": "mickamy",
             "repo": "sql-tap",
-            "stars": 1587
+            "stars": 1587,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Box SQL Slow Query Monitor",
+            "homepage": null,
             "id": 3812233,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-08T23:39:55Z",
+            "open_issues": 60,
             "owner": "box",
             "repo": "Anemometer",
-            "stars": 1392
+            "stars": 1392,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -90,12 +123,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL",
+            "homepage": "https://pypi.org/project/dolphie/",
             "id": 532695496,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T15:10:28Z",
+            "open_issues": 1,
             "owner": "charles-001",
             "repo": "dolphie",
-            "stars": 1195
+            "stars": 1195,
+            "topics": [
+              "monitoring",
+              "mysql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -106,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A realtime terminal-based top-like monitor for MySQL",
+            "homepage": null,
             "id": 25345759,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-22T01:00:02Z",
+            "open_issues": 27,
             "owner": "innotop",
             "repo": "innotop",
-            "stars": 803
+            "stars": 803,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -122,12 +169,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ps-top - a top-like program for MySQL",
+            "homepage": null,
             "id": 26496513,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-10T19:13:51Z",
+            "open_issues": 3,
             "owner": "sjmudd",
             "repo": "ps-top",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "mysql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -138,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 12481335,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-04-20T17:10:47Z",
+            "open_issues": 6,
             "owner": "db-art",
             "repo": "mysql-statsd",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -154,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL and PostgreSQL JSON Explain Analyzer",
+            "homepage": "https://preetam.github.io/explain-analyzer/",
             "id": 107621393,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-12T01:01:14Z",
+            "open_issues": 1,
             "owner": "Preetam",
             "repo": "explain-analyzer",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -170,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, browser-based MySQL & MariaDB EXPLAIN analyzer with 49 detection rules, index recommendations,      and query rewrites. 100% client-side.",
+            "homepage": null,
             "id": 1207635688,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-14T15:36:59Z",
+            "open_issues": 1,
             "owner": "Mughees52",
             "repo": "mysql-explain-analyzer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -192,12 +261,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+            "homepage": "https://www.tidb.io/",
             "id": 41986369,
             "language": "Go",
-            "last_commit": "2026-08-28T18:29:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:40:03Z",
+            "open_issues": 6833,
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40478
+            "stars": 40478,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-memory",
+              "agentic",
+              "ai",
+              "cloud-native",
+              "database",
+              "distributed-database",
+              "distributed-transactions",
+              "go",
+              "hacktoberfest",
+              "htap",
+              "memory",
+              "mysql",
+              "mysql-compatibility",
+              "scale",
+              "serverless",
+              "sql",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -208,12 +302,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostgreSQL backup tool with Point-In-Time-Recovery and restore verification",
+            "homepage": "https://databasus.com",
             "id": 996785011,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:57:01Z",
+            "open_issues": 3,
             "owner": "databasus",
             "repo": "databasus",
-            "stars": 8346
+            "stars": 8354,
+            "topics": [
+              "backup",
+              "backups",
+              "database",
+              "database-backup",
+              "devops",
+              "docker",
+              "golang",
+              "kubernetes",
+              "mariadb",
+              "mongodb",
+              "mysql",
+              "pg",
+              "postgres",
+              "postgresql",
+              "s3",
+              "self-hosted",
+              "system-administration",
+              "tools",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -224,12 +343,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official MyDumper Project",
+            "homepage": null,
             "id": 45695616,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T13:42:49Z",
+            "open_issues": 61,
             "owner": "mydumper",
             "repo": "mydumper",
-            "stars": 3217
+            "stars": 3217,
+            "topics": [
+              "database",
+              "mariadb",
+              "multithreading",
+              "mysql",
+              "percona",
+              "replication",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -240,12 +372,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume ",
+            "homepage": "https://portabase.io",
             "id": 875146326,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:32:00Z",
+            "open_issues": 35,
             "owner": "Portabase",
             "repo": "portabase",
-            "stars": 1667
+            "stars": 1669,
+            "topics": [
+              "backup",
+              "backup-tool",
+              "database",
+              "devops",
+              "docker",
+              "docker-backup",
+              "docker-volumes",
+              "firebirdsql",
+              "mariadb",
+              "mongodb",
+              "mssql-database",
+              "mysql",
+              "nextjs",
+              "postgresql",
+              "redis",
+              "selfhosted",
+              "sqlite-database",
+              "valkey"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -256,12 +412,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source hot backup tool for InnoDB and XtraDB databases",
+            "homepage": "https://www.percona.com/software/mysql-database/percona-xtrabackup",
             "id": 30753970,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T14:04:10Z",
+            "open_issues": 22,
             "owner": "percona",
             "repo": "percona-xtrabackup",
-            "stars": 1549
+            "stars": 1550,
+            "topics": [
+              "backup",
+              "innodb",
+              "mysql",
+              "pxb"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -278,12 +444,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scriptable database and system performance benchmark",
+            "homepage": null,
             "id": 31806094,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-03-09T16:27:25Z",
+            "open_issues": 217,
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6782
+            "stars": 6782,
+            "topics": [
+              "benchmark",
+              "console",
+              "freebsd",
+              "linux",
+              "lua",
+              "luajit",
+              "macos",
+              "micro-benchmarks",
+              "mysql",
+              "oltp",
+              "postgresql",
+              "sysbench"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -294,12 +478,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HammerDB: The industry standard open-source database benchmark",
+            "homepage": "http://www.hammerdb.com",
             "id": 159393955,
             "language": "Tcl",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:23:54Z",
+            "open_issues": 15,
             "owner": "TPC-Council",
             "repo": "HammerDB",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "benchmark",
+              "benchmarking",
+              "benchmarks",
+              "databases",
+              "db2",
+              "hammerdb",
+              "mariadb",
+              "mysql",
+              "olap",
+              "olapbenchmark",
+              "oltp",
+              "oltpbenchmark",
+              "oracle",
+              "postgresql",
+              "scaleable",
+              "sql",
+              "sqlserver",
+              "tpc",
+              "tpcc",
+              "tpch"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -310,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 51403967,
             "language": "C",
+            "license": null,
             "last_commit": "2018-06-13T13:40:08Z",
+            "open_issues": 13,
             "owner": "Percona-Lab",
             "repo": "tpcc-mysql",
-            "stars": 487
+            "stars": 487,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -326,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolbox to benchmark TPC workloads in Go ",
+            "homepage": null,
             "id": 219746000,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-13T04:56:59Z",
+            "open_issues": 26,
             "owner": "pingcap",
             "repo": "go-tpc",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -342,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java based iiBench for MySQL/Percona/MariaDB",
+            "homepage": null,
             "id": 26977819,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-12-04T06:57:33Z",
+            "open_issues": 3,
             "owner": "tmcallaghan",
             "repo": "iibench-mysql",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -364,12 +589,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed MySQL binlog storage system built on Raft",
+            "homepage": null,
             "id": 163549671,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-11T04:37:27Z",
+            "open_issues": 12,
             "owner": "flike",
             "repo": "kingbus",
-            "stars": 892
+            "stars": 892,
+            "topics": [
+              "binlog",
+              "distributed-systems",
+              "golang",
+              "mysql",
+              "mysql-binlog",
+              "raft",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -380,12 +618,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB)",
+            "homepage": null,
             "id": 201455508,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:42:44Z",
+            "open_issues": 968,
             "owner": "pingcap",
             "repo": "tiflow",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "cdc",
+              "dm",
+              "kafka",
+              "mysql",
+              "ticdc",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -396,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ripple, a server that can serve as a middleman in MySQL replication",
+            "homepage": null,
             "id": 167623973,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-28T05:47:58Z",
+            "open_issues": 22,
             "owner": "google",
             "repo": "mysql-ripple",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -418,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatOps for MySQL.",
+            "homepage": null,
             "id": 16320914,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2014-03-09T17:56:39Z",
+            "open_issues": 0,
             "owner": "samlambert",
             "repo": "hubot-mysql-chatops",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -440,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make MySQL behave more like newer (or older) releases",
+            "homepage": null,
             "id": 29299554,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-03-02T01:33:41Z",
+            "open_issues": 1,
             "owner": "morgo",
             "repo": "mysql-compatibility-config",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -462,12 +727,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure node.js JavaScript Client implementing the MySQL protocol.",
+            "homepage": null,
             "id": 805461,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-25T12:03:39Z",
+            "open_issues": 175,
             "owner": "mysqljs",
             "repo": "mysql",
-            "stars": 18618
+            "stars": 18618,
+            "topics": [
+              "javascript",
+              "mysql",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -478,12 +752,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+            "homepage": "https://pkg.go.dev/github.com/go-sql-driver/mysql",
             "id": 7083242,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T16:17:38Z",
+            "open_issues": 73,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15272
+            "stars": 15272,
+            "topics": [
+              "database",
+              "go",
+              "mariadb",
+              "mysql",
+              "mysql-driver",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -494,12 +780,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL client library for Python",
+            "homepage": "https://pymysql.readthedocs.io/",
             "id": 2114213,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:00:54Z",
+            "open_issues": 15,
             "owner": "PyMySQL",
             "repo": "PyMySQL",
-            "stars": 7844
+            "stars": 7844,
+            "topics": [
+              "mysql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -510,12 +804,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL/MariaDB connector for Python",
+            "homepage": "https://mysqlclient.readthedocs.io/",
             "id": 19227725,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-22T07:21:54Z",
+            "open_issues": 4,
             "owner": "PyMySQL",
             "repo": "mysqlclient",
-            "stars": 2536
+            "stars": 2536,
+            "topics": [
+              "mariadb",
+              "mysql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -526,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, simple and very fast Mysql library for Ruby - binding to libmysql",
+            "homepage": "http://github.com/brianmario/mysql2",
             "id": 588600,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-21T04:49:36Z",
+            "open_issues": 70,
             "owner": "brianmario",
             "repo": "mysql2",
-            "stars": 2279
+            "stars": 2278,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -542,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Connector/J",
+            "homepage": null,
             "id": 32741886,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T06:12:25Z",
+            "open_issues": 1,
             "owner": "mysql",
             "repo": "mysql-connector-j",
-            "stars": 1014
+            "stars": 1014,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -558,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to run this Python DB API v2.0 compliant driver. Documentation & Download: http://dev.mysql.com/doc/connector-python/en",
+            "homepage": null,
             "id": 22502757,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T10:38:05Z",
+            "open_issues": 1,
             "owner": "mysql",
             "repo": "mysql-connector-python",
-            "stars": 957
+            "stars": 957,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -574,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Connector/C++ is a MySQL database connector for C++. It lets you develop C++ and C applications that connect to MySQL Server.",
+            "homepage": null,
             "id": 50173071,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T08:22:59Z",
+            "open_issues": 0,
             "owner": "mysql",
             "repo": "mysql-connector-cpp",
-            "stars": 708
+            "stars": 708,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -590,12 +913,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Written by humans. WTX is a collection of different transport implementations and related tools focused primarily on web technologies.",
+            "homepage": "https://c410-f3r.github.io/wtx/",
             "id": 684042595,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-23T22:12:16Z",
+            "open_issues": 6,
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "api",
+              "certificate",
+              "cli",
+              "database",
+              "email",
+              "embedded",
+              "framework",
+              "grpc",
+              "http",
+              "http2",
+              "network",
+              "postgres",
+              "rust",
+              "smtp",
+              "sql",
+              "time",
+              "tls",
+              "web",
+              "websocket",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -606,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. MariaDB Connector/J is LGPL licensed.",
+            "homepage": null,
             "id": 30072532,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-07-29T15:20:26Z",
+            "open_issues": 4,
             "owner": "mariadb-corporation",
             "repo": "mariadb-connector-j",
-            "stars": 360
+            "stars": 362,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -622,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connector/NET is a fully-managed ADO.NET driver for MySQL.",
+            "homepage": "https://dev.mysql.com/downloads/connector/net/",
             "id": 46116719,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-26T19:23:59Z",
+            "open_issues": 3,
             "owner": "mysql",
             "repo": "mysql-connector-net",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -638,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Connector Node.JS is a MySQL Connector using the X Protocol, which was introduced with MySQL 5.7.12.",
+            "homepage": null,
             "id": 56061501,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-22T07:41:17Z",
+            "open_issues": 0,
             "owner": "mysql",
             "repo": "mysql-connector-nodejs",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -654,12 +1018,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ballerina mysql Module",
+            "homepage": null,
             "id": 288615234,
             "language": "Ballerina",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T09:08:18Z",
+            "open_issues": 5,
             "owner": "ballerina-platform",
             "repo": "module-ballerinax-mysql",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "ballerina",
+              "mysql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -670,12 +1042,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL and MariaDB  driver in native Zig",
+            "homepage": null,
             "id": 672293790,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2026-08-19T12:44:03Z",
+            "open_issues": 4,
             "owner": "speed2exe",
             "repo": "myzql",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "driver",
+              "mariadb",
+              "mysql",
+              "sql",
+              "zig",
+              "zig-library",
+              "zig-package"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -686,12 +1071,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL driver for the Perl5 Database Interface (DBI)",
+            "homepage": "https://metacpan.org/module/DBD::mysql",
             "id": 12426816,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-21T07:44:32Z",
+            "open_issues": 75,
             "owner": "perl5-dbi",
             "repo": "DBD-mysql",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "database-access",
+              "database-connector",
+              "dbd",
+              "dbi",
+              "mysql",
+              "perl",
+              "perl-database-interface",
+              "perl5"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -702,12 +1101,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl MariaDB driver",
+            "homepage": null,
             "id": 116696416,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T10:37:04Z",
+            "open_issues": 20,
             "owner": "perl5-dbi",
             "repo": "DBD-MariaDB",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "database-access",
+              "database-connector",
+              "dbd",
+              "dbi",
+              "mariadb",
+              "mariadb-connector",
+              "perl",
+              "perl-database-interface",
+              "perl5"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -718,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "* NOTE: This is now a dead project and used for CI testing *    A lightweight C API for MySQL servers",
+            "homepage": null,
             "id": 22472706,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-28T05:53:49Z",
+            "open_issues": 24,
             "owner": "libattachsql",
             "repo": "libattachsql",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -734,12 +1153,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MariaDB Client for GNU Octave (maybe this is compatible for MySQL and Matlab too)",
+            "homepage": null,
             "id": 127146920,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-11-04T07:50:56Z",
+            "open_issues": 1,
             "owner": "markuman",
             "repo": "mex-mariadb",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "gnu-octave",
+              "mariadb",
+              "matlab",
+              "mysql",
+              "octave"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -756,12 +1186,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flyway by Redgate • Database Migrations Made Easy.",
+            "homepage": "https://flywaydb.org",
             "id": 7170058,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:33:09Z",
+            "open_issues": 255,
             "owner": "flyway",
             "repo": "flyway",
-            "stars": 10038
+            "stars": 10040,
+            "topics": [
+              "aurora",
+              "continuous-delivery",
+              "continuous-deployment",
+              "database",
+              "database-administration",
+              "database-deployment",
+              "database-management",
+              "database-migrations",
+              "db2",
+              "devops",
+              "flyway",
+              "java",
+              "java-library",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "redgate",
+              "sql",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -772,12 +1227,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Liquibase Source",
+            "homepage": "https://www.liquibase.org",
             "id": 2019791,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:27:26Z",
+            "open_issues": 254,
             "owner": "liquibase",
             "repo": "liquibase",
-            "stars": 5596
+            "stars": 5596,
+            "topics": [
+              "continuous-delivery",
+              "continuous-deployment",
+              "database",
+              "database-administration",
+              "database-management",
+              "database-migrations",
+              "db2",
+              "devops",
+              "hacktoberfest",
+              "java",
+              "java-library",
+              "liquibase",
+              "mariadb",
+              "mysql",
+              "oracle",
+              "sql",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -788,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample MySQL database with an integrated test suite, used to test your applications and database servers",
+            "homepage": null,
             "id": 41632796,
             "language": "PLpgSQL",
+            "license": null,
             "last_commit": "2026-04-10T10:00:40Z",
+            "open_issues": 2,
             "owner": "datacharmer",
             "repo": "test_db",
-            "stars": 4434
+            "stars": 4434,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -804,12 +1287,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台",
+            "homepage": null,
             "id": 319254323,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T07:32:58Z",
+            "open_issues": 197,
             "owner": "actiontech",
             "repo": "sqle",
-            "stars": 1500
+            "stars": 1500,
+            "topics": [
+              "advisor",
+              "audit",
+              "jetbrains",
+              "mssql",
+              "mybatis",
+              "mysql",
+              "optimize",
+              "oracle",
+              "pg",
+              "postgresql",
+              "sql",
+              "sql-audit",
+              "suggestion"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -820,12 +1322,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative pure-SQL schema management for MySQL and MariaDB",
+            "homepage": null,
             "id": 72486161,
             "language": "Go",
-            "last_commit": "2026-08-28T19:23:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:04:54Z",
+            "open_issues": 15,
             "owner": "skeema",
             "repo": "skeema",
-            "stars": 1378
+            "stars": 1378,
+            "topics": [
+              "declarative",
+              "mariadb",
+              "migrations",
+              "mysql",
+              "schema-diff",
+              "schema-management",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -836,12 +1351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shift is an application that helps you run schema migrations on MySQL databases",
+            "homepage": null,
             "id": 49679370,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-01T04:55:07Z",
+            "open_issues": 29,
             "owner": "square",
             "repo": "shift",
-            "stars": 737
+            "stars": 737,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -852,12 +1372,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-execution safety analysis for MySQL DDL/DML operations.",
+            "homepage": "https://rendiment.io/tags#dbsafe",
             "id": 1156178289,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-16T20:40:45Z",
+            "open_issues": 1,
             "owner": "nethalo",
             "repo": "dbsafe",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "aws-rds-aurora-mysql",
+              "aws-rds-mysql",
+              "ddl",
+              "mysql",
+              "rds-mysql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -868,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code Coverage tooling for PgSQL and MYSQL database functions/procedures",
+            "homepage": null,
             "id": 1196104240,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-07T13:14:00Z",
+            "open_issues": 0,
             "owner": "verizonconnect",
             "repo": "cover_me",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -890,12 +1426,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free universal database tool and SQL client",
+            "homepage": "https://dbeaver.io",
             "id": 44662669,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:35:23Z",
+            "open_issues": 3364,
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 51575
+            "stars": 51577,
+            "topics": [
+              "ai",
+              "database",
+              "databricks",
+              "db2",
+              "dbeaver",
+              "erd",
+              "gui",
+              "java",
+              "jdbc",
+              "mysql",
+              "nosql",
+              "oracle",
+              "postgresql",
+              "redshift",
+              "snowflake",
+              "sql",
+              "sqlite",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -906,12 +1466,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool. ",
+            "homepage": null,
             "id": 482719022,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T02:22:32Z",
+            "open_issues": 43,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12312
+            "stars": 12312,
+            "topics": [
+              "aiagent",
+              "app-builder",
+              "crud-application",
+              "developer-tool",
+              "developer-tools",
+              "gui",
+              "hacktoberfest",
+              "internal-development",
+              "internal-tool",
+              "internal-tools",
+              "low-code",
+              "low-code-development-platform",
+              "lowcode",
+              "react",
+              "self-hosted",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -922,12 +1504,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes",
+            "homepage": "http://mycli.net",
             "id": 33457642,
             "language": "Python",
-            "last_commit": "2026-08-27T10:06:34Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T22:54:25Z",
+            "open_issues": 2,
             "owner": "dbcli",
             "repo": "mycli",
-            "stars": 11970
+            "stars": 11970,
+            "topics": [
+              "auto-completion",
+              "data-science",
+              "database",
+              "mycli",
+              "mysql",
+              "python",
+              "sql",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -938,12 +1534,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web interface for MySQL and MariaDB",
+            "homepage": "https://www.phpmyadmin.net/",
             "id": 3217621,
             "language": "PHP",
-            "last_commit": "2026-08-27T19:52:27Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T00:51:36Z",
+            "open_issues": 946,
             "owner": "phpmyadmin",
             "repo": "phpmyadmin",
-            "stars": 7916
+            "stars": 7917,
+            "topics": [
+              "hacktoberfest",
+              "mariadb",
+              "mysql",
+              "php",
+              "phpmyadmin",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -954,12 +1562,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database management in a single PHP file",
+            "homepage": "https://www.adminer.org/",
             "id": 627735,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T12:12:05Z",
+            "open_issues": 7,
             "owner": "vrana",
             "repo": "adminer",
-            "stars": 7837
+            "stars": 7838,
+            "topics": [
+              "database",
+              "mariadb",
+              "mssql",
+              "mysql",
+              "php",
+              "postgresql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -970,12 +1591,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL/MariaDB database management for macOS",
+            "homepage": "https://sequel-ace.com",
             "id": 271553915,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:37:24Z",
+            "open_issues": 174,
             "owner": "Sequel-Ace",
             "repo": "Sequel-Ace",
-            "stars": 7520
+            "stars": 7522,
+            "topics": [
+              "hacktoberfest",
+              "macos",
+              "mariadb",
+              "mysql",
+              "objective-c",
+              "sequel",
+              "sequelace",
+              "sequelpro"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -986,12 +1621,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
+            "homepage": "https://www.heidisql.com/",
             "id": 109230350,
             "language": "Pascal",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T17:26:07Z",
+            "open_issues": 317,
             "owner": "HeidiSQL",
             "repo": "HeidiSQL",
-            "stars": 6231
+            "stars": 6231,
+            "topics": [
+              "delphi",
+              "firebird-database",
+              "freepascal",
+              "gtk2",
+              "heidisql",
+              "icons8",
+              "interbase",
+              "lazarus-ide",
+              "linux",
+              "macos",
+              "mariadb",
+              "mssql",
+              "mysql",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "sqlite3",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1002,12 +1661,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open source database client built natively for developers",
+            "homepage": "https://tablepro.app",
             "id": 1117891044,
             "language": "Swift",
-            "last_commit": "2026-08-28T15:59:50Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:51:19Z",
+            "open_issues": 88,
             "owner": "TableProApp",
             "repo": "TablePro",
-            "stars": 5573
+            "stars": 5576,
+            "topics": [
+              "appkit",
+              "database",
+              "database-client",
+              "database-gui",
+              "database-management",
+              "macos",
+              "macos-app",
+              "mongodb",
+              "mssql",
+              "mysql",
+              "mysql-client",
+              "native",
+              "postgresql",
+              "redis",
+              "sql",
+              "sql-editor",
+              "sqlite",
+              "swift",
+              "swiftui",
+              "tableplus"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1018,12 +1703,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web tool for database management",
+            "homepage": "https://omnidb.org",
             "id": 56064194,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-01T00:34:47Z",
+            "open_issues": 330,
             "owner": "OmniDB",
             "repo": "OmniDB",
-            "stars": 3284
+            "stars": 3284,
+            "topics": [
+              "database",
+              "database-conversion",
+              "database-management",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1034,12 +1729,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. ",
+            "homepage": null,
             "id": 96926243,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-28T06:36:42Z",
+            "open_issues": 0,
             "owner": "okbob",
             "repo": "pspg",
-            "stars": 2730
+            "stars": 2730,
+            "topics": [
+              "c",
+              "csv-viewer",
+              "dbcli",
+              "monetdb-client",
+              "mysql",
+              "mysql-client",
+              "ncurses",
+              "nushell",
+              "pager",
+              "postgres-pager",
+              "postgresql",
+              "postgresql-client",
+              "psql",
+              "terminal",
+              "terminal-app",
+              "terminal-pager",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1050,12 +1768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webyog provides monitoring and management tools for open source relational databases. We develop easy-to-use MySQL client tools for performance tuning and database management. Webyog's solutions include SQL Diagnostic Manager for MySQL performance optimization and SQLyog for MySQL administration. More than 35,000 companies (including Amazon, IBM, Salesforce, AT&T, eBay, and GE) and 2.5 million users rely on Webyog's solutions to provide valuable insights into their databases. Webyog is an Idera, Inc. company.",
+            "homepage": "https://webyog.com/",
             "id": 32132075,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T11:49:58Z",
+            "open_issues": 694,
             "owner": "webyog",
             "repo": "sqlyog-community",
-            "stars": 2343
+            "stars": 2343,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1066,12 +1789,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+            "homepage": "https://www.percona.com/software/database-tools/percona-monitoring-and-management",
             "id": 56446422,
             "language": "Go",
-            "last_commit": "2026-08-28T17:43:10Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T20:40:41Z",
+            "open_issues": 226,
             "owner": "percona",
             "repo": "pmm",
-            "stars": 1093
+            "stars": 1093,
+            "topics": [
+              "database",
+              "database-management",
+              "hacktoberfest",
+              "monitoring",
+              "observability",
+              "pmm"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1082,12 +1817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.",
+            "homepage": null,
             "id": 44747797,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-23T09:01:56Z",
+            "open_issues": 2,
             "owner": "mysql",
             "repo": "mysql-workbench",
-            "stars": 996
+            "stars": 996,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1098,12 +1838,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StackRender is the next-gen database schema design and generation tool.",
+            "homepage": "https://www.stackrender.io",
             "id": 977671574,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-05T22:43:01Z",
+            "open_issues": 2,
             "owner": "stackrender",
             "repo": "stackrender",
-            "stars": 531
+            "stars": 531,
+            "topics": [
+              "database",
+              "db",
+              "db-migration",
+              "editor",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "react",
+              "react-flow",
+              "schema-generation",
+              "shadcn",
+              "shadcn-ui",
+              "sql",
+              "sqlite",
+              "xlflow",
+              "xyflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1114,12 +1876,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One browser tab for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, SQLite, Couchbase, ClickHouse and Druid. An open-source SQL IDE with SSO, audit trail and AI-assisted queries MIT licensed, with nothing held back behind an enterprise wall.",
+            "homepage": "https://libredb.org",
             "id": 1121989093,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:48:44Z",
+            "open_issues": 6,
             "owner": "libredb",
             "repo": "libredb-studio",
-            "stars": 369
+            "stars": 370,
+            "topics": [
+              "cassandra",
+              "clickhouse",
+              "couchbase",
+              "database",
+              "docker",
+              "druid",
+              "elasticsearch",
+              "kubernetes",
+              "mongodb",
+              "mssql",
+              "mysql",
+              "nextjs",
+              "oracle",
+              "postgresql",
+              "redis",
+              "self-hosted",
+              "sql",
+              "sql-editor",
+              "sqlite",
+              "trino"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1130,12 +1918,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Database IDE",
+            "homepage": "https://webdb.app",
             "id": 729848316,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-06-10T11:58:04Z",
+            "open_issues": 25,
             "owner": "WebDB-App",
             "repo": "app",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "ai",
+              "autocomplete",
+              "cockroachdb",
+              "database",
+              "ide",
+              "mariadb",
+              "mongodb",
+              "mysql",
+              "nosql",
+              "percona",
+              "postgresql",
+              "sql",
+              "versioning"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1146,12 +1953,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea",
+            "homepage": "https://squix.live.eduardofuncao.com/",
             "id": 1071782362,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:57:40Z",
+            "open_issues": 12,
             "owner": "eduardofuncao",
             "repo": "squix",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "cli",
+              "database",
+              "go",
+              "golang",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1162,12 +1980,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Shell is a command line scriptable shell for MySQL, with support for logical backups, InnoDB Cluster management and more. It supports SQL, JavaScript and Python.",
+            "homepage": null,
             "id": 56036937,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T19:22:06Z",
+            "open_issues": 1,
             "owner": "mysql",
             "repo": "mysql-shell",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "backup",
+              "high-availability",
+              "mysql",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1178,12 +2006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI client for MySQL or MariaDB, including debugger",
+            "homepage": null,
             "id": 23089109,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-06T22:35:01Z",
+            "open_issues": 2,
             "owner": "ocelot-inc",
             "repo": "ocelotgui",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1200,12 +2033,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MySQL replication topology management and HA",
+            "homepage": null,
             "id": 75190736,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-18T05:58:22Z",
+            "open_issues": 419,
             "owner": "openark",
             "repo": "orchestrator",
-            "stars": 5775
+            "stars": 5775,
+            "topics": [
+              "high-availability",
+              "management-system",
+              "mysql",
+              "replication"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1216,12 +2059,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server",
+            "homepage": "https://signal18.io/products/srm",
             "id": 44248957,
             "language": "Go",
-            "last_commit": "2026-08-28T07:33:49Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:44:49Z",
+            "open_issues": 171,
             "owner": "signal18",
             "repo": "replication-manager",
-            "stars": 739
+            "stars": 739,
+            "topics": [
+              "alerting",
+              "backups",
+              "configuration-management",
+              "failover",
+              "group-replication",
+              "gtid",
+              "haproxy",
+              "kubernetes",
+              "leader-election",
+              "mariadb",
+              "monitoring",
+              "mysql",
+              "opensvc",
+              "proxysql",
+              "replication",
+              "semi-sync",
+              "slave",
+              "spider",
+              "vip"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1232,12 +2100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synchronous multi-master replication library",
+            "homepage": null,
             "id": 18951393,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-09T13:15:24Z",
+            "open_issues": 254,
             "owner": "mariadb-corporation",
             "repo": "galera",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1248,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development tree of Master High Availability Manager and tools for MySQL (MHA), Node (MySQL Server) part",
+            "homepage": "http://code.google.com/p/mysql-master-ha/",
             "id": 2093258,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2020-03-12T12:28:57Z",
+            "open_issues": 14,
             "owner": "yoshinorim",
             "repo": "mha4mysql-node",
-            "stars": 408
+            "stars": 408,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1264,12 +2142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 574601468,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-01-07T13:11:32Z",
+            "open_issues": 3,
             "owner": "percona",
             "repo": "replication-manager",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1286,12 +2169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MariaDB MCP (Model Context Protocol) server implementation",
+            "homepage": null,
             "id": 980719847,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T13:12:59Z",
+            "open_issues": 28,
             "owner": "MariaDB",
             "repo": "mcp",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1302,12 +2190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Server implementation for Model Context Protocol (MCP) written in Go.",
+            "homepage": null,
             "id": 1102600002,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T19:46:21Z",
+            "open_issues": 4,
             "owner": "askdba",
             "repo": "mysql-mcp-server",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1324,12 +2217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance proxy for MySQL and PostgreSQL",
+            "homepage": "http://www.proxysql.com",
             "id": 27358084,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:53:09Z",
+            "open_issues": 1095,
             "owner": "sysown",
             "repo": "proxysql",
-            "stars": 6904
+            "stars": 6904,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1346,12 +2244,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Compare tables within or across databases",
+            "homepage": "https://docs.datafold.com",
             "id": 467151498,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-17T13:45:03Z",
+            "open_issues": 0,
             "owner": "datafold",
             "repo": "data-diff",
-            "stars": 2991
+            "stars": 2991,
+            "topics": [
+              "data",
+              "data-diffing",
+              "data-engineering",
+              "data-quality",
+              "data-quality-monitoring",
+              "data-science",
+              "database",
+              "databricks-sql",
+              "dataengineering",
+              "dataquality",
+              "dbt",
+              "mysql",
+              "oracle-database",
+              "postgres",
+              "postgresql",
+              "python",
+              "rdbms",
+              "snowflake",
+              "sql",
+              "trino"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1368,12 +2292,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The MySQL sys schema",
+            "homepage": null,
             "id": 16895332,
             "language": "PLpgSQL",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-26T13:17:39Z",
+            "open_issues": 4,
             "owner": "mysql",
             "repo": "mysql-sys",
-            "stars": 827
+            "stars": 827,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1384,12 +2313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBA's framework for MySQL",
+            "homepage": null,
             "id": 19582982,
             "language": "PLpgSQL",
+            "license": "MIT",
             "last_commit": "2020-03-21T19:55:27Z",
+            "open_issues": 17,
             "owner": "shlomi-noach",
             "repo": "common_schema",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1406,12 +2340,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (\"transparent\") encryption. SQL, NoSQL.",
+            "homepage": "https://www.cossacklabs.com/acra/",
             "id": 73724173,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T00:16:58Z",
+            "open_issues": 29,
             "owner": "cossacklabs",
             "repo": "acra",
-            "stars": 1491
+            "stars": 1491,
+            "topics": [
+              "crypto",
+              "cryptography",
+              "database-proxy",
+              "databases",
+              "django",
+              "encryption",
+              "encryption-server",
+              "golang",
+              "honeypot",
+              "intrusion-detection",
+              "php",
+              "python3",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1422,12 +2375,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mysqldump anonymizer",
+            "homepage": "https://ppomes.github.io/myanon/",
             "id": 344319125,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-24T18:57:43Z",
+            "open_issues": 0,
             "owner": "ppomes",
             "repo": "myanon",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "anonymization",
+              "anonymize",
+              "anonymizer",
+              "bison",
+              "data-masking",
+              "database-anonymizer",
+              "flex",
+              "gdpr",
+              "mariadb",
+              "mysql",
+              "mysqldump",
+              "obfuscator",
+              "parser",
+              "pii",
+              "privacy",
+              "rgpd",
+              "rust",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1438,12 +2415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for syncing LDAP users to MySQL or MariaDB users",
+            "homepage": null,
             "id": 747369334,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:55:26Z",
+            "open_issues": 0,
             "owner": "6eh01der",
             "repo": "myldapsync",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1460,12 +2442,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+            "homepage": "https://www.tidb.io/",
             "id": 41986369,
             "language": "Go",
-            "last_commit": "2026-08-28T18:29:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:40:03Z",
+            "open_issues": 6833,
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40478
+            "stars": 40478,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-memory",
+              "agentic",
+              "ai",
+              "cloud-native",
+              "database",
+              "distributed-database",
+              "distributed-transactions",
+              "go",
+              "hacktoberfest",
+              "htap",
+              "memory",
+              "mysql",
+              "mysql-compatibility",
+              "scale",
+              "serverless",
+              "sql",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1476,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",
+            "homepage": "http://www.mysql.com/",
             "id": 24494032,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:03:09Z",
+            "open_issues": 43,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12406
+            "stars": 12406,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1492,12 +2504,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+            "homepage": "https://mariadb.org",
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-28T19:31:00Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T19:51:45Z",
+            "open_issues": 475,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8151
+            "stars": 8152,
+            "topics": [
+              "amazon-web-services",
+              "database",
+              "fulltext-search",
+              "galera",
+              "geographical-information-system",
+              "innodb",
+              "json",
+              "mariadb",
+              "mysql",
+              "nearest-neighbor-search",
+              "rdbms",
+              "relational-databases",
+              "sql",
+              "storage-engine",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1508,12 +2541,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Percona Server",
+            "homepage": "https://www.percona.com/software/mysql-database/percona-server",
             "id": 30753733,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:57:59Z",
+            "open_issues": 91,
             "owner": "percona",
             "repo": "percona-server",
-            "stars": 1271
+            "stars": 1271,
+            "topics": [
+              "ps"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1524,12 +2564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector Storage & Search Plugin for MySQL",
+            "homepage": null,
             "id": 1132148714,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-02T04:50:27Z",
+            "open_issues": 1,
             "owner": "askdba",
             "repo": "myvector",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1546,12 +2591,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+            "homepage": "http://vitess.io",
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-28T19:06:29Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:15:04Z",
+            "open_issues": 1092,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21271
+            "stars": 21271,
+            "topics": [
+              "cncf",
+              "database-cluster",
+              "kubernetes",
+              "mysql",
+              "shard",
+              "vitess"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1562,12 +2619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL toolkit for managing billions of rows and hundreds of database machines",
+            "homepage": null,
             "id": 4432054,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-15T19:52:13Z",
+            "open_issues": 3,
             "owner": "tumblr",
             "repo": "jetpants",
-            "stars": 1125
+            "stars": 1125,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1584,12 +2646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 817407005,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T14:10:56Z",
+            "open_issues": 1,
             "owner": "djberube",
             "repo": "sqlaxe",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1600,12 +2667,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's Online Schema-migration Tool for MySQL",
+            "homepage": null,
             "id": 54378638,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:29:44Z",
+            "open_issues": 328,
             "owner": "github",
             "repo": "gh-ost",
-            "stars": 13543
+            "stars": 13543,
+            "topics": [
+              "mysql",
+              "schema-migrations"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1616,12 +2691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a powerful mysql toolset with Go",
+            "homepage": null,
             "id": 17042400,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T04:16:38Z",
+            "open_issues": 157,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
-            "stars": 4962
+            "stars": 4962,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1632,12 +2712,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Percona Toolkit: a collection of advanced open source command-line tools.",
+            "homepage": "https://www.percona.com/software/database-tools/percona-toolkit",
             "id": 9902455,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T18:11:06Z",
+            "open_issues": 28,
             "owner": "percona",
             "repo": "percona-toolkit",
-            "stars": 1544
+            "stars": 1544,
+            "topics": [
+              "database",
+              "database-tools",
+              "percona-toolkit",
+              "pt"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1648,12 +2738,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TwinDB data recovery toolkit for MySQL/InnoDB",
+            "homepage": "https://twindb.com",
             "id": 38410132,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2023-08-23T15:41:00Z",
+            "open_issues": 9,
             "owner": "twindb",
             "repo": "undrop-for-innodb",
-            "stars": 424
+            "stars": 424,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1664,12 +2759,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MySQL Utilities is a set of easy-to-use scripts intended to make working with MySQL servers easier.",
+            "homepage": null,
             "id": 41544647,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2019-10-10T08:56:09Z",
+            "open_issues": 35,
             "owner": "mysql",
             "repo": "mysql-utilities",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1680,12 +2780,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just swoof it in",
+            "homepage": null,
             "id": 318663870,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:32:01Z",
+            "open_issues": 3,
             "owner": "StirlingMarketingGroup",
             "repo": "swoof",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "golang",
+              "mysql"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         },
@@ -1696,12 +2804,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Split large SQL dump files into individual table files. Fast, memory-efficient, multi-dialect.",
+            "homepage": "https://sql-splitter.dev/",
             "id": 1067478404,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T12:52:58Z",
+            "open_issues": 1,
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cli",
+              "database",
+              "devtools",
+              "mysql",
+              "mysqldump",
+              "postgresql",
+              "rust",
+              "sql",
+              "sql-dump",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T19:35:20.274Z"
         }
@@ -1720,12 +2844,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practice with \"Real\" SQL Problems",
+                "homepage": null,
                 "id": 46900105,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-11T21:46:31Z",
+                "open_issues": 8,
                 "owner": "XD-DENG",
                 "repo": "SQL-exercise",
-                "stars": 1530
+                "stars": 1530,
+                "topics": [
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T19:35:20.274Z"
             }
@@ -1743,12 +2874,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VillageSQL - a drop-in replacement for MySQL with extensions",
+                "homepage": "https://villagesql.com/",
                 "id": 975757837,
                 "language": "C++",
-                "last_commit": "2026-08-28T18:03:33Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:03:48Z",
+                "open_issues": 260,
                 "owner": "villagesql",
                 "repo": "villagesql-server",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "database",
+                  "drop-in-replacement",
+                  "extensions",
+                  "mysql",
+                  "villagesql"
+                ]
               },
               "first_seen": "2026-08-28T19:35:20.274Z"
             }
@@ -1762,15 +2904,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:20.274Z",
+    "last_updated": "2026-08-29T04:21:58.840Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+      "homepage": null,
       "id": 32276625,
       "language": "Python",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-17T12:26:05Z",
+      "open_issues": 17,
       "owner": "shlomi-noach",
       "repo": "awesome-mysql",
-      "stars": 2610
+      "stars": 2610,
+      "topics": []
     },
     "original_repository_sha": "be3eba89cc770ecb48ec677f30088a11c9716328",
     "enhanced_repository": "enhansome/enhansome-mysql",
